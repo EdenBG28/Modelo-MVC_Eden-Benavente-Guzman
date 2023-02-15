@@ -23,12 +23,12 @@ El controlador, que actúa como intermediario entre el Modelo y la Vista, gestio
 
 Una de estas peticiones a las vistas puede ser una llamada al método:
 ```javascript
-Actualizar();
+Actualizar()
 ```
 
 Una petición al modelo puede ser
 ```javascript
-ObtenerTiempo(OrdenVenta);
+ObtenerTiempo(OrdenVenta)
 ```
 
 ## La vista es responsable de:
